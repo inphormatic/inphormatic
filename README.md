@@ -4,7 +4,7 @@
 
 <br>
 
-#### SKILLS
+### SKILLS
 
 [![Languages](https://skillicons.dev/icons?i=c,java,ruby,js,html,css,kotlin)](https://skillicons.dev)
 
