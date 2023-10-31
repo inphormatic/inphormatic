@@ -6,7 +6,7 @@
 
 ### SKILLS
 
-[![Languages](https://skillicons.dev/icons?i=c,java,kotlin,ruby,js,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,java,ruby,kotlin,js,html,css)](https://skillicons.dev)
 
 [![Frameworks](https://skillicons.dev/icons?i=react,rails)](https://skillicons.dev)
 
