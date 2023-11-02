@@ -4,7 +4,15 @@
 
 <br>
 
-### 🛠 ️`Technologies`
+### 👋🏻  ️`Overview`
+
+- I'm currently learning **Go** and _Test-Driven Development_.
+- You can reach me via **Gmail** and nothing more (for now).
+- In my free time, I like **writing** as a hobby.
+
+<br>
+
+### 🛠  ️`Technologies`
 
 [![Languages](https://skillicons.dev/icons?i=c,java,ruby,js,html,css,kotlin)](https://skillicons.dev)
 
