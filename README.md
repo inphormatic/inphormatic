@@ -4,11 +4,12 @@
 
 <br>
 
-### 👋🏻  ️`Overview`
+### 👋🏻  ️`About Me`
 
-- I'm currently learning **Go** and _Test-Driven Development_.
-- You can reach me via **Gmail** and nothing else (for now).
-- In my free time, I like **writing** as a hobby.
+- I'm currently learning **Go**.
+- I'm curious about **Cyber Security**, **AI** and **Embedded Systems**.
+- You can contact me via <a href="mailto:dvdabati@gmail.com">Gmail</a> and nothing else (for now).
+- In my free time, I like **reading**, **writing** and **playing ukulele**.
 
 <br>
 
