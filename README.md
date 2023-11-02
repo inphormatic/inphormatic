@@ -1,10 +1,10 @@
 <h1 align="center">
-  Hi there 👋
+  Hi, I'm David
 </h1>
 
 <br>
 
-### SKILLS
+### 🛠 ️`Technologies`
 
 [![Languages](https://skillicons.dev/icons?i=c,java,ruby,js,html,css,kotlin)](https://skillicons.dev)
 
