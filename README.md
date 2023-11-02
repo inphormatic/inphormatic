@@ -7,7 +7,7 @@
 ### 👋🏻  ️`Overview`
 
 - I'm currently learning **Go** and _Test-Driven Development_.
-- You can reach me via **Gmail** and nothing more (for now).
+- You can reach me via **Gmail** and nothing else (for now).
 - In my free time, I like **writing** as a hobby.
 
 <br>
