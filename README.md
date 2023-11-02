@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm David
+  Hello there, I'm David
 </h1>
 
 <br>
