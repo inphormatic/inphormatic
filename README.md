@@ -6,10 +6,10 @@
 
 ### 👋🏻  ️`About Me`
 
-- I'm currently learning **Go**.
+- I'm currently learning **Python** and **Go**.
 - I'm curious about **Cyber Security**, **AI** and **Embedded Systems**.
 - You can contact me via <a href="mailto:dvdabati@gmail.com">Gmail</a>.
-- In my free time, I like **reading**, **writing**, **taking walks** and **playing ukulele**.
+- In my free time, I like **reading**, **writing** and **taking walks**.
 
 <br>
 
